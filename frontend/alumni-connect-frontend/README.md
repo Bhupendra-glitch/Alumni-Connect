@@ -221,3 +221,4 @@ This platform addresses the critical need for:
 - **Data-Driven Insights**: Analytics and reporting
 
 The Alumni Connect platform transforms how educational institutions manage and engage with their alumni, creating lasting value for all stakeholders.
+
