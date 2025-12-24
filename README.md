@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot 2025-12-14 171711" src="https://github.com/user-attachments/assets/261ee41f-4112-486d-9265-95299f0b47d1" />
+
 # 🎓 Alumni Connect - Frontend Prototype
 
 A modern, React-powered prototype designed to streamline alumni engagement and strengthen the bond between institutions, graduates, and current students.
