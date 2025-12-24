@@ -1,4 +1,5 @@
 <img width="1920" height="1080" alt="Screenshot 2025-12-14 171711" src="https://github.com/user-attachments/assets/261ee41f-4112-486d-9265-95299f0b47d1" />
+## 🔴 Live Demo - https://drive.google.com/file/d/1oQn2rshIyPx4jFNM0D8sjx29iMvNWQ7M/view?usp=sharing
 
 # 🎓 Alumni Connect - Frontend Prototype
 
